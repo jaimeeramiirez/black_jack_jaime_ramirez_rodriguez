@@ -1,3 +1,5 @@
+#EJERCICIO BLACK JACK
+
 print("\n\n")
 
 cartas = {
@@ -25,4 +27,4 @@ print("Putos: {}".format(list(cartas.values())))
 print("\n")
 
 for carta, valor in cartas.items():
-    print("La carta {} vale {}".format(carta, valor))
+    print("La carta {} vale {} puntos".format(carta, valor))
