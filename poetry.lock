@@ -1,4 +1,12 @@
 [[package]]
+name = "choice"
+version = "0.1"
+description = "Easy request and response GUI for Python"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
 name = "numpy"
 version = "1.22.2"
 description = "NumPy is the fundamental package for array computing with Python."
@@ -9,7 +17,8 @@ python-versions = ">=3.8"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.8.0,<3.9"
-content-hash = "aff373253c7dfba5ffb39abcd42622aff6370f3677a7bbbceff4e477ed202c9d"
+content-hash = "7d8b208d9624cd142136d001aa1e5b017d620df772ea6d4287a4e2307c4de6bd"
 
 [metadata.files]
+choice = []
 numpy = []
